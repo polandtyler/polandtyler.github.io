@@ -10,15 +10,15 @@
   },
   "devDependencies": {
     "bootstrap": "^3.4.1",
-    "browser-sync": "^2.24.5",
+    "browser-sync": "^2.26.13",
     "font-awesome": "^4.6.3",
     "gulp": "^4.0.0",
-    "gulp-clean-css": "^2.0.10",
-    "gulp-header": "^1.8.7",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-header": "^2.0.9",
     "gulp-less": "^4.0.1",
     "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^1.5.4",
-    "jquery": "~> 3.5.0"
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.5.1"
   },
   "repository": {
     "type": "git",
